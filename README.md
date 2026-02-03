@@ -43,7 +43,7 @@ scikit-learn
 XGBoost
 
 📖 Notebooks Description
-Linear Regression
+Linear Regression: [Open in Colab](https://colab.research.google.com/drive/1dDGqYqFk8JQM4rt83icpe1jRcWwWLsSk?authuser=1)
 
 Simple and multiple linear regression models.
 
@@ -51,31 +51,31 @@ Visualization of regression lines and residuals.
 
 Metrics: MSE, RMSE, R² score.
 
-Logistic Regression
+Logistic Regression: [Open in Colab](https://colab.research.google.com/drive/1dAkprCczHrUVwnKybdx01CO9Oj93UucL?authuser=1)
 
 Binary classification with logistic regression.
 
 Confusion matrix, ROC curve, and accuracy metrics.
 
-Support Vector Machine (SVM)
+Support Vector Machine (SVM): [Open in Colab](https://colab.research.google.com/drive/1rKnSwgzLNa8zKzQdC8L0RK_jfrCWl4pr?authuser=1)
 
 Linear and non-linear SVM classifiers.
 
 Kernel tricks and margin maximization explained.
 
-Decision Tree
+Decision Tree: [Open in Colab](https://colab.research.google.com/drive/1_6gYXm5D_tD9cxJxzjQoBwGkUE-xzYq3?authuser=1)
 
 Decision tree for classification.
 
 Tree visualization and feature importance.
 
-Random Forest
+Random Forest: [Open in Colab](https://colab.research.google.com/drive/1pz-mfPTxaicsxiztF3dez8U5FJLTiBAc?authuser=1)
 
 Ensemble learning with random forests.
 
 Comparison with decision tree performance.
 
-XGBoost
+XGBoost: [Open in Colab](https://colab.research.google.com/drive/1hbmEySvg3CalRtcc-WIpHTeWhmfVIM6I?authuser=1)
 
 Gradient boosting for classification.
 
@@ -85,7 +85,7 @@ Parameter tuning and early stopping.
 
 Clone this repository:
 
-git clone https://github.com/yourusername/ml_models-project.git
+git clone https://github.com/dumpalashivanjali/ml_models-project.git
 
 
 Open any notebook in Google Colab
@@ -99,5 +99,5 @@ Contributions and improvements are welcome! Feel free to open issues or submit p
 
 📫 Contact
 
-If you want to reach out, contact me at your.email@example.com
+If you want to reach out, contact me at dumpalashivanjali8@gmail.com
 .
